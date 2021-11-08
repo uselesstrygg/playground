@@ -28,6 +28,8 @@ yapf = "*"
 pre-commit = "*"
 imbalanced-learn = "*"
 jupyterlab-link-share = "*"
+plotly = "*"
+ipywidgets = "*"
 
 [dev-packages]
 
